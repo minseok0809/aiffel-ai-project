@@ -7,7 +7,7 @@
 |--------------------------|---|---|---|
 |01|Decision Tree. Random Forest. SVM. SGD Classifier|sklearn|load_digits, wine, breast_cancer|
 |02|Linear Regression|sklearn|load_diabetes. Forecast use of a city bikeshare system|
-|03|Time Series Decomposition|ARIMA|Samsung Electronics_Close, High|
+|03|Time Series Decomposition|ARIMA. seasonal_decompose|Samsung Electronics_Close, High|
 |04|Kaggle|sklearn|House Sales in King County|
 |05|Sequential API|Keras|Rock Scissor Paper picture|
 |06|Text Generation|Keras|Song_Lyrics|
