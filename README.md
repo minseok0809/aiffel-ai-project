@@ -14,7 +14,7 @@
 |07|Text Summarization (Abstractive and Extractive)|Keras|news_summary_more|
 |08|Face Bounding Box. Landmark|OpenCV. dlib|CelebA|
 |09|LSTM. Attention Mechanism. Transformer|Keras. KoNLPy. MeCab. Genism|Naver sentiment movie corpus v1.0|
-|10|Semantic Image Segmentation|pixellib. torch. cv2|unsplash. deeplabv3_xception_tf_dim_ordering_tf_kernels|
+|10|Semantic Image Segmentation|pixellib. OpenCV. torch|unsplash. deeplabv3_xception_tf_dim_ordering_tf_kernels|
 
 <br/><br/><br/><br/>
 
