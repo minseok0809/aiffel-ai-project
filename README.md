@@ -21,7 +21,7 @@
 
 ## Dataton
 [AI HUB 한국어 대화 요약](https://aihub.or.kr/aidata/30714)
-* Json Parsing.
+* Json Parsing
 * Text Normalization : Constraction. Stopword
 * Tokenization : MeCab. Okt
 * LDA. Wordcloud. Folium. Cosine Similarity
