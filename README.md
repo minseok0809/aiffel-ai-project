@@ -2,7 +2,7 @@
 # Aiffel
 <img src="https://velog.velcdn.com/images/leejaejun/post/f28d0ac3-0ff7-4489-89f6-9a161bf4cc9d/ee.png" width="600px" height="310px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 <br/><br/><br/><br/><br/>
-## LMS Exploration
+## Exploration
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
 |01|EDA|Decision Tree. Random Forest. SVM. SGD Classifier|sklearn|load_digits, wine, breast_cancer|
@@ -23,7 +23,7 @@
 [AI HUB 한국어 대화 요약](https://aihub.or.kr/aidata/30714)
 * Json Parsing.
 * Text Normalization : Constraction. Stopword
-* MeCab. Okt : Morph. Noun
+* Tokenization : MeCab. Okt
 * LDA. Wordcloud. Folium. Cosine Similarity
 
 <br/><br/><br/><br/><br/><br/>
