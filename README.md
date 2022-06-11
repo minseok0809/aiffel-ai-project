@@ -9,7 +9,7 @@
 |02|EDA|Linear Regression|sklearn|load_diabetes. Forecast use of a city bikeshare system|
 |03|Stock|Time Series Decomposition|ARIMA. seasonal_decompose|Yahoo Finance : Samsung Electronics Co., Ltd. (005930.KS)|
 |04|House Sale|Kaggle|sklearn|House Sales in King County|
-|05|Rock Siccsors Paper Classfier|Image Classfication|keras|rock scissor paper picture|
+|05|Rock Siccsors Paper Classfier|Image Classfication|keras|rock_scissor_paper|
 |06|Lyric Bot|Text Generation|keras|Song_Lyrics|
 |07|News Summary|Text Summarization (Abstractive and Extractive)|keras|news_summary_more|
 |08|Mustache Sticker|Face Bounding Box. Landmark|OpenCV. dlib|CelebA. ibug 300-W|
