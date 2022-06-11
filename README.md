@@ -24,7 +24,8 @@
 * Json Parsing
 * Text Normalization : Constraction. Stopword
 * Tokenization : MeCab. Okt
-* LDA. Wordcloud. Folium. Cosine Similarity
+* Visualization : LDA. Wordcloud. Folium
+* Tokenizer Performance Evaluation : Cosine Similarity
 
 <br/><br/><br/><br/><br/><br/>
 ## Going Deeper
