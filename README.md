@@ -9,12 +9,12 @@
 |02|EDA|Linear Regression|sklearn|load_diabetes. Forecast use of a city bikeshare system|
 |03|Stock|Time Series Decomposition|ARIMA. seasonal_decompose|Yahoo Finance : Samsung Electronics Co., Ltd. (005930.KS)|
 |04|House Sale|Kaggle|sklearn|House Sales in King County|
-|05|Rock Siccsors Paper Classfier|Image Classfication|keras|rock_scissors_paper|
+|05|Rock Siccsors Paper Classfier|Image Classfication|keras|rock scissors paper image|
 |06|Lyric Bot|Text Generation|keras|Song_Lyrics|
 |07|News Summary|Text Summarization (Abstractive and Extractive)|keras|news_summary_more|
 |08|Mustache Sticker|Face Bounding Box. Landmark|OpenCV. dlib|CelebA. ibug 300-W|
 |09|Film Review Sentimental Analysis|LSTM. Attention Mechanism. Transformer|keras. KoNLPy. MeCab. Genism|Naver sentiment movie corpus v1.0|
-|10|Shallow focus|Semantic Image Segmentation|pixellib. OpenCV. torch|unsplash. deeplabv3_xception_tf_dim_ordering_tf_kernels|
+|10|Shallow focus|Semantic Image Segmentation|pixellib. OpenCV. torch|unsplash image. deeplabv3_xception_tf_dim_ordering_tf_kernels|
 |11|Chatbot|Transformer|tensorflow. keras. sklearn. regex|Chatbot data for Korean v1.0|
 
 <br/><br/><br/><br/>
