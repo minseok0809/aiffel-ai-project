@@ -1,7 +1,19 @@
 
 # Aiffel
 <img src="https://velog.velcdn.com/images/leejaejun/post/f28d0ac3-0ff7-4489-89f6-9a161bf4cc9d/ee.png" width="600px" height="310px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<br/><br/><br/><br/><br/>
+<br/><br/>
+
+## Curriculum
+LMS(Learning Management System)
+* Exploration
+* Going Deeper
+
+<br/>Hackathon
+* Dataton
+* Mini Aiffelton
+* Aiffelton
+<br/><br/><br/><br/>
+
 ## Exploration
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
