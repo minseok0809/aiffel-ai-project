@@ -8,7 +8,7 @@
 AI Study
 <br/>NLP Study
 
-<br/>Hackathon
+Hackathon
 * Dataton
 * Mini Aiffelton
 * Aiffelton
