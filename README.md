@@ -30,6 +30,8 @@ Hackathon
 |11|Chatbot|Transformer|tensorflow. keras. sklearn. regex|Chatbot data for Korean v1.0|
 
 <br/><br/><br/><br/>
+## NLP Study
+<br/><br/><br/><br/><br/><br/>
 
 ## Dataton
 [AI HUB 한국어 대화 요약](https://aihub.or.kr/aidata/30714)
@@ -39,8 +41,6 @@ Hackathon
 * Visualization : LDA. Wordcloud. Folium
 * Tokenizer Performance Evaluation : Cosine Similarity
 
-<br/><br/><br/><br/><br/><br/>
-## NLP Study
 <br/><br/><br/><br/><br/><br/>
 ## Mini Aiffelton
 <br/><br/><br/><br/><br/><br/>
