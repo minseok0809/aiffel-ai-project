@@ -5,8 +5,9 @@
 
 ## Curriculum
 
-<br/>AI Study
+AI Study
 <br/>NLP Study
+
 <br/>Hackathon
 * Dataton
 * Mini Aiffelton
