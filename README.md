@@ -4,9 +4,9 @@
 <br/><br/><br/><br/>
 
 ## Curriculum
-LMS(Learning Management System)
-* Exploration
-* Going Deeper
+Exploration
+* AI Study
+* NLP Study
 
 <br/>Hackathon
 * Dataton
@@ -14,7 +14,7 @@ LMS(Learning Management System)
 * Aiffelton
 <br/><br/><br/><br/><br/>
 
-## Exploration
+## AI Study
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
 |01|EDA|Decision Tree. Random Forest. SVM. SGD Classifier|sklearn|load_digits, wine, breast_cancer|
@@ -40,7 +40,7 @@ LMS(Learning Management System)
 * Tokenizer Performance Evaluation : Cosine Similarity
 
 <br/><br/><br/><br/><br/><br/>
-## Going Deeper
+## NLP Study
 <br/><br/><br/><br/><br/><br/>
 ## Mini Aiffelton
 <br/><br/><br/><br/><br/><br/>
