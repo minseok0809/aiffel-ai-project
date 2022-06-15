@@ -9,9 +9,9 @@ AI Study
 <br/>NLP Study
 
 Hackathon
-* Dataton
-* Mini Aiffelton
-* Aiffelton
+* Datathon
+* Mini Aiffelthon
+* Aiffelthon
 <br/><br/><br/><br/><br/>
 
 ## AI Study
@@ -33,7 +33,7 @@ Hackathon
 ## NLP Study
 <br/><br/><br/><br/><br/><br/>
 
-## Dataton
+## Datathon
 Korean Conversation EDA 
 <br/><br/>[AI HUB 한국어 대화 요약](https://aihub.or.kr/aidata/30714)
 
@@ -44,8 +44,8 @@ Korean Conversation EDA
 * Tokenizer Performance Evaluation : Cosine Similarity
 
 <br/><br/><br/><br/><br/><br/>
-## Mini Aiffelton
+## Mini Aiffelthon
 <br/><br/><br/><br/><br/><br/>
-## Aiffelton
+## Aiffelthon
 <br/><br/><br/><br/><br/><br/>
 
