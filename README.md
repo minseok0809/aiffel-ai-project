@@ -30,7 +30,7 @@ Hackathon
 |11|Chatbot|Transformer|tensorflow. keras. regex. hanspell. soynlp|Chatbot data for Korean v1.0|
 |12|Goods Info Search From Image|OCR. Web Crawling|keras_ocr. tesseract. OpenCV. selenium|Book Cover Image|
 |13|Q&A : Machine Reading Comprehension|BERT|sentencepiece. tensorflow. keras|KorQuAD 1.0|
-|14|Fashion Image Generator|DCGAN|imageio. pillow. OpenCV. tensorflow. keras|CIFAR-10|
+|14|Image Generator|DCGAN|imageio. pillow. OpenCV. tensorflow. keras|CIFAR-10|
 
 <br/><br/><br/><br/>
 ## NLP Study
