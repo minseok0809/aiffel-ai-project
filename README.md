@@ -23,7 +23,7 @@ Hackathon
 |04|House Sale|Kaggle|sklearn. keras. tensorflow|House Sales in King County|
 |05|Rock Siccsors Paper Classfier|Image Classfication|keras. tensorflow|rock scissors paper image|
 |06|Lyric Bot|Text Generation|keras. tensorflow|Song_Lyrics|
-|07|News Summary|Text Summarization (Abstractive and Extractive)|keras. tensorflow|news_summary_more|
+|07|News Summary|Text Summarization (Abstractive. Extractive)|keras. tensorflow|news_summary_more|
 |08|Mustache Sticker|Face Bounding Box. Landmark|OpenCV. dlib|CelebA. ibug 300-W|
 |09|Film Review Sentimental Analysis|LSTM. Attention Mechanism. Transformer|keras. tensorflow. KoNLPy. MeCab. Genism|Naver sentiment movie corpus v1.0|
 |10|Shallow focus|Semantic Image Segmentation|pixellib. OpenCV. torch|unsplash image. deeplabv3_xception_tf_dim_ordering_tf_kernels|
