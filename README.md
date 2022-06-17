@@ -21,7 +21,7 @@ Hackathon
 |02|EDA|Linear Regression|sklearn|load_diabetes. Forecast use of a city bikeshare system|
 |03|Stock Price Forecasting|Time Series Decomposition|ARIMA. seasonal_decompose|Yahoo Finance : Samsung Electronics Co., Ltd. (005930.KS)|
 |04|House Sale Prediction|Kaggle|sklearn. keras. tensorflow|House Sales in King County|
-|05|Rock Siccsors Paper Classfier|Image Classfication|keras. tensorflow|rock scissors paper image|
+|05|Rock Siccsors Paper Classfier|Image Classfication|keras. tensorflow|Rock Scissors Paper Image|
 |06|Lyric Bot|Text Generation|keras. tensorflow|Song_Lyrics|
 |07|News Summary|Text Summarization (Abstractive and Extractive)|keras. tensorflow|news_summary_more|
 |08|Mustache Sticker|Face Bounding Box. Landmark|OpenCV. dlib|CelebA. ibug 300-W|
