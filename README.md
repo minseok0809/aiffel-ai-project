@@ -31,7 +31,7 @@ Hackathon
 |12|Goods Info Search From Image|OCR. Web Crawling|keras_ocr. tesseract. OpenCV. selenium|Book Cover Image|
 |13|Q&A : Machine Reading Comprehension|BERT|sentencepiece. keras. tensorflow|KorQuAD 1.0|
 |14|Image Generator|DCGAN|imageio. pillow. OpenCV. keras. tensorflow|CIFAR-10|
-|15|Recommender System|ALS|implicit. scipy|MovieLens 1M Dataset|
+|15|Recommender System|ALS|implicit. scipy|MovieLens 1M|
 
 <br/><br/><br/><br/>
 ## NLP Study
