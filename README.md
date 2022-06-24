@@ -32,6 +32,7 @@ Hackathon
 |13|Q&A : Machine Reading Comprehension|BERT|sentencepiece. keras. tensorflow|KorQuAD 1.0|
 |14|Image Generator|DCGAN|imageio. pillow. OpenCV. keras. tensorflow|CIFAR-10|
 |15|Recommender System|ALS|implicit. scipy|MovieLens 1M|
+|16|Image-to-Image Translation|Pix2Pix|OpenCV. keras. tensorflow|Cityscapes Dataset|
 
 <br/><br/><br/><br/>
 ## NLP Study
