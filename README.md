@@ -33,6 +33,7 @@ Hackathon
 |14|Image Generator|DCGAN|imageio. pillow. OpenCV. keras. tensorflow|CIFAR-10|
 |15|Recommender System|ALS|implicit. scipy|MovieLens 1M|
 |16|Image-to-Image Translation|Pix2Pix|OpenCV. keras. tensorflow|Cityscapes|
+|17|Session Based Recommendation|GRU|keras. tensorflow|MovieLens 1M|
 
 <br/><br/><br/><br/>
 ## NLP Study
