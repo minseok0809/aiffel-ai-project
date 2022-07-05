@@ -39,7 +39,8 @@ Hackathon
 ## NLP Study
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
-|01|a|a|a|a|
+|01|||||
+
 <br/><br/><br/><br/><br/><br/>
 
 ## Datathon
