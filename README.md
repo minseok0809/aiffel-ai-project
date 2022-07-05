@@ -41,7 +41,7 @@ Hackathon
 |---|---|---|---|---|
 |01|||||
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## Datathon
 Korean Conversation EDA 
