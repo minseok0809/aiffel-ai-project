@@ -39,7 +39,7 @@ Hackathon
 ## NLP Study
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
-|01|||||
+|02|Vocabulary Compilation|GPT-1|SentencePiece. MeCab. tensorflow. torch|Korean Parallel Corpora. Naver sentiment movie corpus v1.0|
 
 <br/><br/><br/><br/>
 
