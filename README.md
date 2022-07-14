@@ -40,7 +40,7 @@ Hackathon
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
 |02|Vocabulary Compilation|GPT-1|SentencePiece. MeCab. tensorflow. torch|Korean Parallel Corpora. Naver sentiment movie corpus v1.0|
-|04|Multiclass Text Classification|Naive Bayes Classifier. Linear Classifier. <br/>Support Vector Machine. Decision Tree. <br/>Ensemble Method. Nearest Neighbors. <br/>Neural Network Model. Dummy Classifier. <br/>DNN. 1D-CNN|sklearn. tensorflow. keras|Reuters-21578|
+|04|Multiclass Text Classification|Naive Bayes Classifier. Linear Classifier. <br/>Support Vector Machine. Decision Tree. <br/>Ensemble Method. <br/>Nearest Neighbors. <br/>Neural Network Model. Dummy Classifier. <br/>DNN. 1D-CNN|sklearn. tensorflow. keras|Reuters-21578|
 
 <br/><br/><br/><br/>
 
