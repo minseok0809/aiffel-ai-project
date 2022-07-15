@@ -17,7 +17,7 @@ Hackathon
 ## AI Study
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
-|01|EDA|Decision Tree. Random Forest. SVC. SGD Classifier. Logistic Regression|sklearn|load_digits, wine, breast_cancer|
+|01|EDA|Decision Tree. Random Forest. Support Vector Classifier. SGD Classifier. Logistic Regression|sklearn|load_digits, wine, breast_cancer|
 |02|EDA|Linear Regression|sklearn|load_diabetes. Forecast use of a city bikeshare system|
 |03|Stock Price Forecasting|Time Series Decomposition|ARIMA. seasonal_decompose|Yahoo Finance : Samsung Electronics Co., Ltd. (005930.KS)|
 |04|House Sale Prediction|Kaggle|sklearn. keras. tensorflow|House Sales in King County|
