@@ -17,7 +17,7 @@ Hackathon
 ## AI Study
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
-|01|EDA|Decision Tree. Random Forest. SVM. SGD Classifier|sklearn|load_digits, wine, breast_cancer|
+|01|EDA|Decision Tree. Random Forest. SVC. SGD Classifier. Logistic Regression|sklearn|load_digits, wine, breast_cancer|
 |02|EDA|Linear Regression|sklearn|load_diabetes. Forecast use of a city bikeshare system|
 |03|Stock Price Forecasting|Time Series Decomposition|ARIMA. seasonal_decompose|Yahoo Finance : Samsung Electronics Co., Ltd. (005930.KS)|
 |04|House Sale Prediction|Kaggle|sklearn. keras. tensorflow|House Sales in King County|
@@ -39,7 +39,7 @@ Hackathon
 ## NLP Study
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
-|02|Vocabulary Compilation|GPT-1|SentencePiece. MeCab. tensorflow. torch|Korean Parallel Corpora. Naver sentiment movie corpus v1.0|
+|02|Perplexity(PPL)|GPT-1|SentencePiece. MeCab. tensorflow. torch|Korean Parallel Corpora. Naver sentiment movie corpus v1.0|
 |04|Multiclass Text Classification|Naive Bayes Classifier. Linear Classifier. Support Vector Machine. Decision Tree. Ensemble Method. Nearest Neighbors. Neural Network Model. Dummy Classifier. DNN. 1D-CNN|sklearn. tensorflow. keras|Reuters-21578|
 
 <br/><br/><br/><br/>
