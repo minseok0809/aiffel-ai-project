@@ -29,10 +29,10 @@ Hackathon
 |10|Shallow focus|Semantic Image Segmentation|pixellib. OpenCV. torch|unsplash image. deeplabv3_xception_tf_dim_ordering_tf_kernels|
 |11|Chatbot|Transformer|keras. tensorflow. regex. hanspell. soynlp|Chatbot data for Korean v1.0|
 |12|Goods Info Search From Image|OCR. Web Crawling|keras_ocr. tesseract. OpenCV. selenium|Book Cover Image|
-|13|Q&A : Machine Reading Comprehension|BERT|sentencepiece. keras. tensorflow|KorQuAD 1.0|
-|14|Image Generator|DCGAN|imageio. pillow. OpenCV. keras. tensorflow|CIFAR-10|
+|13|Q&A : Machine Reading Comprehension|BERT|keras. tensorflow. sentencepiece|KorQuAD 1.0|
+|14|Image Generator|DCGAN|keras. tensorflow. imageio. pillow. OpenCV|CIFAR-10|
 |15|Recommender System|ALS|implicit. scipy|MovieLens 1M|
-|16|Image-to-Image Translation|Pix2Pix|OpenCV. keras. tensorflow|Cityscapes|
+|16|Image-to-Image Translation|Pix2Pix|keras. tensorflow. OpenCV|Cityscapes|
 |17|Session Based Recommendation|GRU|keras. tensorflow|MovieLens 1M|
 
 <br/><br/><br/><br/>
