@@ -25,25 +25,25 @@ Hackathon
 |06|Lyric Bot|Text Generation|keras. tensorflow|Song_Lyrics|
 |07|News Summary|Text Summarization (Abstractive and Extractive)|keras. tensorflow|news_summary_more|
 |08|Mustache Sticker|Face Bounding Box. Landmark|OpenCV. dlib|CelebA. ibug 300-W|
-|09|Film Review Sentimental Analysis|LSTM. Attention Mechanism. Transformer. Word2Vec|keras. tensorflow. MeCab. gensim|Naver sentiment movie corpus v1.0|
+|09|Film Review Sentimental Analysis|LSTM. Attention Mechanism. Transformer. Word2Vec|MeCab. gensim. keras. tensorflow|Naver sentiment movie corpus v1.0|
 |10|Shallow focus|Semantic Image Segmentation|pixellib. OpenCV. torch|unsplash image. deeplabv3_xception_tf_dim_ordering_tf_kernels|
-|11|Chatbot|Transformer|keras. tensorflow. regex. hanspell. soynlp|Chatbot data for Korean v1.0|
+|11|Chatbot|Transformer|regex. hanspell. soynlp. keras. tensorflow|Chatbot data for Korean v1.0|
 |12|Goods Info Search From Image|OCR. Web Crawling|keras_ocr. tesseract. OpenCV. selenium|Book Cover Image|
-|13|Q&A : Machine Reading Comprehension|BERT|keras. tensorflow. sentencepiece|KorQuAD 1.0|
-|14|Image Generator|DCGAN|keras. tensorflow. imageio. pillow. OpenCV|CIFAR-10|
+|13|Q&A : Machine Reading Comprehension|BERT|SentencePiece. keras. tensorflow|KorQuAD 1.0|
+|14|Image Generator|DCGAN|imageio. pillow. OpenCV. keras. tensorflow|CIFAR-10|
 |15|Recommender System|ALS|implicit. scipy|MovieLens 1M|
-|16|Image-to-Image Translation|Pix2Pix|keras. tensorflow. OpenCV|Cityscapes|
+|16|Image-to-Image Translation|Pix2Pix|OpenCV. keras. tensorflow|Cityscapes|
 |17|Session Based Recommendation|GRU|keras. tensorflow|MovieLens 1M|
 
 <br/><br/><br/><br/>
 ## NLP Study
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
-|02|Perplexity(PPL)|GPT-1|tensorflow. torch. SentencePiece. MeCab. regex|Korean Parallel Corpora. Naver sentiment movie corpus v1.0|
-|04|Multiclass Text Classification|Naive Bayes Classifier. Linear Classifier. Support Vector Machine. Decision Tree. Ensemble Method. Nearest Neighbors. Neural Network Model. Dummy Classifier. DNN. 1D-CNN|sklearn. tensorflow. keras|Reuters-21578|
-|06|WEAT(Word Embedding Association Test)|TfidfVectorizer. Word2Vec. Cosine Similarity|sklearn. Okt. gensim|KOBIS Synopsis|
-|08|Korean-English Translator|Seq2seq with Attention Mechanism|tensorflow. keras. MeCab. regex|Korean Parallel Corpora|
-|10|Korean-English Translator|Transformer|tensorflow. keras. SentencePiece. regex|Korean Parallel Corpora|
+|02|Perplexity(PPL)|GPT-1|SentencePiece. MeCab. regex. tensorflow. torch|Korean Parallel Corpora. Naver sentiment movie corpus v1.0|
+|04|Multiclass Text Classification|Naive Bayes Classifier. Linear Classifier. Support Vector Machine. Decision Tree. Ensemble Method. Nearest Neighbors. Neural Network Model. Dummy Classifier. DNN. 1D-CNN|sklearn. keras. tensorflow|Reuters-21578|
+|06|WEAT(Word Embedding Association Test)|TfidfVectorizer. Word2Vec. Cosine Similarity|Okt. gensim. sklearn|KOBIS Synopsis|
+|08|Korean-English Translator|Seq2seq with Attention Mechanism|MeCab. regex. keras. tensorflow|Korean Parallel Corpora|
+|10|Korean-English Translator|Transformer|SentencePiece. regex. keras. tensorflow|Korean Parallel Corpora|
 
 <br/><br/><br/><br/>
 
