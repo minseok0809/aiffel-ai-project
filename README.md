@@ -33,15 +33,17 @@ Hackathon
 |14|Image Generator|DCGAN|imageio. pillow. OpenCV. keras. tensorflow|CIFAR-10|
 |15|Recommender System|ALS|implicit. scipy|MovieLens 1M|
 |16|Image-to-Image Translation|Pix2Pix|OpenCV. keras. tensorflow|Cityscapes|
-|17|Session Based Recommendation|GRU|keras. tensorflow. |MovieLens 1M|
+|17|Session Based Recommendation|GRU|keras. tensorflow|MovieLens 1M|
 
 <br/><br/><br/><br/>
 ## NLP Study
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
-|02|Perplexity(PPL)|GPT-1|SentencePiece. MeCab. tensorflow. torch|Korean Parallel Corpora. Naver sentiment movie corpus v1.0|
+|02|Perplexity(PPL)|GPT-1|tensorflow. torch. SentencePiece. MeCab. regex|Korean Parallel Corpora. Naver sentiment movie corpus v1.0|
 |04|Multiclass Text Classification|Naive Bayes Classifier. Linear Classifier. Support Vector Machine. Decision Tree. Ensemble Method. Nearest Neighbors. Neural Network Model. Dummy Classifier. DNN. 1D-CNN|sklearn. tensorflow. keras|Reuters-21578|
 |06|WEAT(Word Embedding Association Test)|TfidfVectorizer. Word2Vec. Cosine Similarity|sklearn. Okt. gensim|KOBIS Synopsis|
+|08|Korean-English Translator|Seq2seq with Attention Mechanism|tensorflow. keras. MeCab. regex|Korean Parallel Corpora|
+|10|Korean-English Translator|Transformer|tensorflow. keras. SentencePiece. regex|Korean Parallel Corpora|
 
 <br/><br/><br/><br/>
 
