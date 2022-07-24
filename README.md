@@ -39,7 +39,7 @@ Hackathon
 ## NLP Study
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
-|02|Perplexity(PPL)|GPT-1|SentencePiece. MeCab. regex. tensorflow. torch|Korean Parallel Corpora. Naver sentiment movie corpus v1.0|
+|02|Perplexity(PPL)|GPT-1|SentencePiece. MeCab. regex. torch. tensorflow|Korean Parallel Corpora. Naver sentiment movie corpus v1.0|
 |04|Multiclass Text Classification|Naive Bayes Classifier. Linear Classifier. Support Vector Machine. Decision Tree. Ensemble Method. Nearest Neighbors. Neural Network Model. Dummy Classifier. DNN. 1D-CNN|sklearn. keras. tensorflow|Reuters-21578|
 |06|WEAT(Word Embedding Association Test)|TfidfVectorizer. Word2Vec. Cosine Similarity|Okt. gensim. sklearn|KOBIS Synopsis|
 |08|Korean-English Translator|Seq2seq with Attention Mechanism|MeCab. regex. keras. tensorflow|Korean Parallel Corpora|
