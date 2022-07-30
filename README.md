@@ -1,7 +1,21 @@
 
 # Aiffel AI Project
 <img src="https://velog.velcdn.com/images/leejaejun/post/f28d0ac3-0ff7-4489-89f6-9a161bf4cc9d/ee.png" width="600px" height="310px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
+
+## Integrated Development Environment
+Python
+* Object Oriented Programming
+* Interpreter (Script)
+* Dynamic Typing
+* Platform Independent
+
+<br/>Google Colab
+* GPU : K80
+* RAM : 32GB
+* Runtime : 24 hours
+* Background Execution: No
+<br/><br/><br/><br/><br/>
 
 ## Curriculum
 
