@@ -59,6 +59,7 @@ Hackathon
 |08|Korean-English Translator|Seq2seq with Attention Mechanism|MeCab. regex. keras. tensorflow|Korean Parallel Corpora|
 |10|Korean-English Translator|Transformer|SentencePiece. regex. keras. tensorflow|Korean Parallel Corpora|
 |12|Chatbot|Data Augmentation : Word2Vec. Glove. FastText. BLEU Score. Transformer|MeCab. gensim. fasttext. nltk. PCA. regex. keras. tensorflow|Chatbot data for Korean v1.0|
+|14|Pretrained Language Model|BERT|SentencePiece. regex. keras. tensorflow|kowiki|
 
 <br/><br/><br/><br/>
 
