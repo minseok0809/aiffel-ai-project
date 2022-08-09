@@ -42,7 +42,7 @@ Hackathon
 |09|Film Review Sentimental Analysis|LSTM. Attention Mechanism. Transformer. Word2Vec|MeCab. gensim. keras. tensorflow|Naver sentiment movie corpus v1.0|
 |10|Shallow focus|Semantic Image Segmentation|pixellib. OpenCV. torch|unsplash image. deeplabv3_xception_tf_dim_ordering_tf_kernels|
 |11|Chatbot|Transformer|regex. hanspell. soynlp. keras. tensorflow|Chatbot data for Korean v1.0|
-|12|Goods Info Search From Image|OCR. Web Crawling|keras_ocr. tesseract. OpenCV. selenium|Book Cover Image|
+|12|Goods Info Search From Image|OCR. Web Crawling|keras_ocr. tesseract. OpenCV. selenium|Book Cover Image. Naver Book|
 |13|Q&A : Machine Reading Comprehension|BERT|SentencePiece. keras. tensorflow|KorQuAD 1.0|
 |14|Image Generator|DCGAN|imageio. pillow. OpenCV. keras. tensorflow|CIFAR-10|
 |15|Recommender System|ALS|implicit. scipy|MovieLens 1M|
