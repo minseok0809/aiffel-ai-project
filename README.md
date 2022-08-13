@@ -60,6 +60,7 @@ Hackathon
 |10|Korean-English Translator|Transformer|SentencePiece. regex. keras. tensorflow|Korean Parallel Corpora|
 |12|Chatbot|Data Augmentation : Word2Vec. Glove. FastText. BLEU Score. Transformer|MeCab. gensim. fasttext. nltk. PCA. regex. keras. tensorflow|Chatbot data for Korean v1.0|
 |14|Pretrained Language Model|BERT|SentencePiece. regex. keras. tensorflow|kowiki|
+|16|HuggingFace Custom Project|KcBERT-base MLM. google/electra-base-discriminator MNLI. distilbert-base-uncased MRPC|Keras Model . Huggingface Transformers Trainer. Pipeline|Korpora korean_petitions(청와대 국민청원). tensorflow_datasets(tfds.load('glue/mnli')). tensorflow_datasets(tfds.load('glue/mrpc'))|
 
 <br/><br/><br/><br/>
 
