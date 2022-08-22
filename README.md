@@ -21,10 +21,10 @@ Python
 
 AI Study
 <br/>NLP Study
+<br/>CV Study
 
 Hackathon
 * Datathon
-* Mini Aiffelthon
 * Aiffelthon
 <br/><br/><br/><br/><br/>
 
@@ -81,8 +81,6 @@ Korean Conversation EDA
 * Visualization : LDA. Wordcloud. Folium
 * Tokenizer Performance Evaluation : Cosine Similarity
 
-<br/><br/><br/><br/><br/><br/>
-## Mini Aiffelthon
 <br/><br/><br/><br/><br/><br/>
 ## Aiffelthon
 <br/><br/><br/><br/><br/><br/>
