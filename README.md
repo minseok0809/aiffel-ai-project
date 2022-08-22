@@ -63,6 +63,12 @@ Hackathon
 |16|HuggingFace Custom Project|beomi/kcbert-base MLM. facebook/bart-large MNLI. google/electra-base-discriminator MNLI. distilbert-base-uncased MRPC|Keras Model . Huggingface Transformers Trainer. Pipeline|Korpora korean_petitions(청와대 국민청원). tensorflow_datasets(tfds.load('glue/mnli')). tensorflow_datasets(tfds.load('glue/mrpc'))|
 
 <br/><br/><br/><br/>
+## CV Study
+|Number|Theme|Content|Library|Data|
+|---|---|---|---|---|
+|04|Data Augmentation|ResNet50. Flip Left Right. Audjust Brightness. Cutmix. Mixup|keras. tensorflow|Stanford Dogs Dataset|
+|06|Object Detection|RetinaNet|OpenCV. pillow. tensorflow|KITTI-360|
+<br/><br/><br/><br/>
 
 ## Datathon
 Korean Conversation EDA 
