@@ -32,8 +32,9 @@ AI Basic
 
 ## Datathon
 Korean Conversation EDA 
-<br/><br/>[AI HUB 한국어 대화 요약](https://aihub.or.kr/aidata/30714)
+<br/><br/>[대화문 비교 분석(일상 대화 요약)](https://github.com/minseok0809/aiffel-ai-project/tree/main/korean-conversation-eda)
 
+* Data : [AI HUB 한국어 대화 요약](https://aihub.or.kr/aidata/30714)
 * Json Parsing
 * Text Normalization : Constraction. Stopword
 * Tokenization : MeCab. Okt
@@ -45,12 +46,13 @@ Korean Conversation EDA
 Satelite Imagery Object Detection
 <br/><br/>[FAIR1M 위성영상에서의 객체 인식 성능 개선](https://github.com/aiffelthon-SIAproject-GangNam-4/for-Public)
 
-* xml Parsing
+* Data : [FAIR1M2.0](https://www2.isprs.org/commissions/comm1/wg6/isprs-benchmark-on-object-detection-in-high-resolution-satellite-images/)
+* Xml Parsing
 * Baselien Model : MMRotate RoI Transformer
 * Exploratory Data Analysis : Class Frequency. Image Size. Object Size
 * Data Cleansing : Patch. Size Based Posted Filtering by GSD
 * Data Augemntation : Patch. Hue/Brightness/Blur
-* QGIS : Annotation File Converts to geojson
+* QGIS : Annotation File Converts to Geojson
 * Evaluation Metric : FP/FN. Precision/Recall/F1-Score/AP. Mean Precision/Mean Recall/Mean F1-Score/mAP
 * Further investigation : Semantic Segmentation
 <br/><br/><br/><br/><br/><br/>
