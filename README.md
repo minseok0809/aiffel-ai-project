@@ -19,14 +19,39 @@ Python
 
 ## Curriculum
 
-AI Study
-<br/>NLP Study
-<br/>CV Study
-
 Hackathon
 * Datathon
 * Aiffelthon
+
+AI Study
+* NLP Study
+* CV Study
 <br/><br/><br/><br/><br/>
+
+## Datathon
+Korean Conversation EDA 
+<br/><br/>[AI HUB 한국어 대화 요약](https://aihub.or.kr/aidata/30714)
+
+* Json Parsing
+* Text Normalization : Constraction. Stopword
+* Tokenization : MeCab. Okt
+* Visualization : LDA. Wordcloud. Folium
+* Tokenizer Performance Evaluation : Cosine Similarity
+
+<br/><br/><br/><br/><br/><br/>
+## Aiffelthon
+Satelite Imagery Object Detection
+<br/><br/>[FAIR1M 위성영상에서의 객체 인식 성능 개선](https://github.com/aiffelthon-SIAproject-GangNam-4/for-Public)
+
+* xml Parsing
+* Baselien Model : MMRotate RoI Transformer
+* Exploratory Data Analysis : Class Frequency. Image Size. Object Size
+* Data Cleansing : Patch. Size Based Posted Filtering by GSD
+* Data Augemntation : Patch. Hue/Brightness/Blur
+* QGIS : Annotation File Converts to geojson
+* Evaluation Metric : FP/FN. Precision/Recall/F1-Score/AP. Mean Precision/Mean Recall/Mean F1-Score/mAP
+* Further investigation : Semantic Segmentation
+<br/><br/><br/><br/><br/><br/>
 
 ## AI Study
 |Number|Theme|Content|Library|Data|
@@ -70,19 +95,3 @@ Hackathon
 |06|Object Detection|RetinaNet|OpenCV. pillow. tensorflow|KITTI-360|
 
 <br/><br/><br/><br/>
-
-## Datathon
-Korean Conversation EDA 
-<br/><br/>[AI HUB 한국어 대화 요약](https://aihub.or.kr/aidata/30714)
-
-* Json Parsing
-* Text Normalization : Constraction. Stopword
-* Tokenization : MeCab. Okt
-* Visualization : LDA. Wordcloud. Folium
-* Tokenizer Performance Evaluation : Cosine Similarity
-
-<br/><br/><br/><br/><br/><br/>
-## Aiffelthon
-[FAIR1M 위성영상에서의 객체 인식 성능 개선](https://github.com/aiffelthon-SIAproject-GangNam-4/for-Public)
-<br/><br/>
-<br/><br/><br/><br/><br/><br/>
