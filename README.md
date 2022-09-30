@@ -22,8 +22,10 @@ Python
 Hackathon
 * Datathon
 * Aiffelthon
+<br/>
 
-AI Study
+AI Basic
+* AI Study
 * NLP Study
 * CV Study
 <br/><br/><br/><br/><br/>
