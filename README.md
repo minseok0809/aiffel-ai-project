@@ -41,7 +41,7 @@ Korean Conversation EDA
 * Visualization : LDA. Wordcloud. Folium
 * Tokenizer Performance Evaluation : Cosine Similarity
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 ## Aiffelthon
 Satelite Imagery Object Detection
 <br/><br/>[FAIR1M 위성영상에서의 객체 인식 성능 개선](https://github.com/aiffelthon-SIAproject-GangNam-4/for-Public)
@@ -55,8 +55,8 @@ Satelite Imagery Object Detection
 * QGIS : Annotation File Converts to Geojson
 * Evaluation Metric : FP/FN. Precision/Recall/F1-Score/AP. Mean Precision/Mean Recall/Mean F1-Score/mAP
 * Further investigation : Semantic Segmentation
-<br/><br/><br/><br/><br/><br/>
 
+<br/><br/><br/><br/><br/>
 ## AI Study
 |Number|Theme|Content|Library|Data|
 |---|---|---|---|---|
