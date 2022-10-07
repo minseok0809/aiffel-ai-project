@@ -48,7 +48,7 @@ Satelite Imagery Object Detection
 
 * Data : [FAIR1M2.0](https://www2.isprs.org/commissions/comm1/wg6/isprs-benchmark-on-object-detection-in-high-resolution-satellite-images/)
 * Xml Parsing
-* Baselien Model : MMRotate RoI Transformer
+* Baseline Model : MMRotate RoI Transformer
 * Exploratory Data Analysis : Class Frequency. Image Size. Object Size
 * Data Cleansing : Patch. Size Based Posted Filtering by GSD
 * Data Augemntation : Patch. Hue/Brightness/Blur
