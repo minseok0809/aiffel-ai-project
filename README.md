@@ -46,7 +46,7 @@ Korean Conversation EDA
 Satelite Imagery Object Detection
 <br/><br/>[FAIR1M 위성영상에서의 객체 인식 성능 개선](https://github.com/aiffelthon-SIAproject-GangNam-4/for-Public)
 
-* Data : [FAIR1M2.0](https://www2.isprs.org/commissions/comm1/wg6/isprs-benchmark-on-object-detection-in-high-resolution-satellite-images/)
+* Data : [FAIR1M2.0](https://arxiv.org/abs/2103.05569)
 * Xml Parsing
 * Baseline Model : MMRotate RoI Transformer
 * Exploratory Data Analysis : Class Frequency. Image Size. Object Size
