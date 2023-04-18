@@ -513,15 +513,34 @@ plt.show()
 **LMS**
 <br/>[jeina7](https://github.com/jeina7)
 
+<br/>**논문**
+<br/>[Alec Radford, Luke Metz, Soumith Chintala, Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR, 2016](https://arxiv.org/abs/1511.06434)
+<br/>[Ian Godfellow, NIPS 2016 Tutorial: Generative Adversarial Networks, 2016](https://arxiv.org/abs/1701.00160)
+<br/>[[Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen, Improved Techniques for Training GANs, 2016](https://arxiv.org/abs/1606.03498)
+
+
 <br/>**공식 사이트**
 <br/>Department of Computer Science, University of Toronto
 <br/>[CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html)
+
+<br/>Keras
+<br/>[Deep Convolutional Generative Adversarial Network](https://www.tensorflow.org/tutorials/generative/dcgan)
+<br/>[Sequential API](https://www.tensorflow.org/guide/keras?hl=ko)
+<br/>[tf.GradientTape](https://www.tensorflow.org/api_docs/python/tf/GradientTape)
 
 <br/>**Github**
 <br/>HRPzz
 <br/>[create_CIFAR_10_fake_images.ipynb](https://github.com/HRPzz/AIFFEL/blob/main/EXPLORATION/Node_10/%5BE-10%5D%20create_CIFAR_10_fake_images.ipynb)
 
+<br/>soumith 
+<br/>[How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks#authors)
+
+<br/>**Kaggle**
+<br/>[CelebFaces Attributes (CelebA) Dataset](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
+
 <br/>**웹사이트**
 <br/>[Disable MatPlotLib warning when using pyplot.imshow](https://stackoverflow.com/questions/54848310/disable-matplotlib-warning-when-using-pyplot-imshow)
 <br/>[Part 2 인공지능으로 새로운 패션을 만들 수 있다!](https://zzcojoa.tistory.com/86)
+<br/>[10 Lessons I Learned Training GANs for one Year](https://towardsdatascience.com/10-lessons-i-learned-training-generative-adversarial-networks-gans-for-a-year-c9071159628)
+<br/>[Tips for Training Stable Generative Adversarial Networks](https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/)
 """
