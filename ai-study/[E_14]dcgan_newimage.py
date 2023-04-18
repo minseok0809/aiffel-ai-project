@@ -516,7 +516,7 @@ plt.show()
 <br/>**논문**
 <br/>[Alec Radford, Luke Metz, Soumith Chintala, Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, ICLR, 2016](https://arxiv.org/abs/1511.06434)
 <br/>[Ian Godfellow, NIPS 2016 Tutorial: Generative Adversarial Networks, 2016](https://arxiv.org/abs/1701.00160)
-<br/>[[Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen, Improved Techniques for Training GANs, 2016](https://arxiv.org/abs/1606.03498)
+<br/>[Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen, Improved Techniques for Training GANs, 2016](https://arxiv.org/abs/1606.03498)
 
 
 <br/>**공식 사이트**
